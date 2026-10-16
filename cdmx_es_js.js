@@ -4610,7 +4610,7 @@
 			{src:"https://static.wixstatic.com/media/b449d2_0d01559968c4453e89713a970bc1a180~mv2.png", id:"aguasfirmes_CDMX_atlas_3"},
 			{src:"https://static.wixstatic.com/media/b449d2_b69f9675a44f4a409dab69231a35f232~mv2.png", id:"aguasfirmes_CDMX_atlas_4"},
 			{src:"https://static.wixstatic.com/media/b449d2_a2a43e0dcfe646e29c5f5c9627650764~mv2.png", id:"aguasfirmes_CDMX_atlas_5"},
-			{src:"https://static.wixstatic.com/media/b449d2_9cf733a076cf4c939dec2c7dbe581345~mv2.png", id:"aguasfirmes_CDMX_atlas_6"},
+			{src:"https://static.wixstatic.com/media/b449d2_e5352839be6540c5a93f75d8d70ab23f~mv2.png", id:"aguasfirmes_CDMX_atlas_6"},
 			{src:"https://static.wixstatic.com/media/b449d2_4acdf13d57874badb7e354cf80689721~mv2.png", id:"aguasfirmes_CDMX_atlas_7"},
 			{src:"https://static.wixstatic.com/mp3/b449d2_4a75bfb3ae0245aaacf5b2bab59d2829.mp3", id:"LDj_AudioSelectionSound02Mp3"},
 			{src:"https://static.wixstatic.com/mp3/b449d2_19012f69dfb84cc8b434a2b8b411943a.mp3", id:"Welcometothejungle2"}
